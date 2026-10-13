@@ -5,6 +5,10 @@
 
 SellerSpark AI is a local AI-powered marketing assistant for small businesses, online sellers, and side hustlers.
 
+## 📸 Application Demo
+
+![SellerSpark AI application demo](screenshots/app-demo.png)
+
 ## ✨ Features
 
 - Generate product titles and short descriptions
